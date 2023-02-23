@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kirill</h1>
 <h3 align="center">A backend developer from Russia</h3>
-<img alt='Coding' align='right' width=400 src='https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-home-office-12.gif'>
+<img alt='Coding' align='right' width=800 src='https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-home-office-12.gif'>
 
 - 🌱 I’m currently learning **how to manage and connect databases to project**
 
