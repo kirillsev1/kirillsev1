@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kirill</h1>
 <h3 align="center">A backend developer from Russia</h3>
 <div align="center">
-<img src='https://batenka.ru/media/original_images/4.gif' alt=''/>
+<img src='https://batenka.ru/media/original_images/4.gif' width='600' alt=''/>
 </div>
 - 🌱 I’m currently learning **how to manage databases and connect them to the projects**
 
